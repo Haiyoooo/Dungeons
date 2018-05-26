@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp1 {
+namespace Dungeons {
     class Program
     {
         static void Main(string[] args) //this is a method called "Main". It is called when the program starts
